@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Kaveesha Nethmi</h1>
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 <h3 align="center">Mobile Developer skilled in  Kotlin, Java, and MySQL.</h3>
-<h2 align="center">Passionate about creating innovative and user-friendly mobile applications.</h2>
+<h4 align="center">Passionate about creating innovative and user-friendly mobile applications.</h4>
 <img align="right" alt="Coding" width="500" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gk-nethmi&label=Profile%20views&color=0e75b6&style=flat" alt="gk-nethmi" /> </p>
