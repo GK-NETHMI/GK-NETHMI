@@ -1,15 +1,15 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center">Hi 👋, I'm Kaveesha Nethmi</h1>
-<h3 align="center">A passionate frontend developer from Sri Lanka</h3>
+<h3 align="center">A passionate fullstack developer from Sri Lanka</h3>
 <h3 align="center">Mobile Developer skilled in  Kotlin, Java, and MySQL.</h3>
-<h4 align="center">Passionate about creating innovative and user-friendly mobile applications.</h4>
+<h4 align="center">Passionate about creating innovative and user-friendly mobile and web applications.</h4>
 <img align="right" alt="Coding" width="500" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gk-nethmi&label=Profile%20views&color=0e75b6&style=flat" alt="gk-nethmi" /> </p>
 
 - 🌱 I’m currently learning **Java-Spring Boot**
 
-- 💬 Ask me about **React,Kotlin,Java,Python,R**
+- 💬 Ask me about **React,Node.js,Java,Python,R**
 
 - 📫 How to reach me **nethmikavee40@gmail.com**
 
@@ -18,7 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/kavee nethmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kavee nethmi" height="30" width="40" /></a>
-<a href="https://fb.com/kavee nethmi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavee nethmi" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=61568742624388" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="kavee nethmi" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/_kavee_neth/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kavee nethmi" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
