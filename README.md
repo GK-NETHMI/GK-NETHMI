@@ -68,6 +68,12 @@
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Vite-Dark.svg" alt="c" width="50" height="50"/>
+  <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg" alt="c" width="50" height="50"/>
+    <img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="c" width="50" height="50"/>
+
 </p>
 
 ---
+
+<img align="center" src="https://www.torontomu.ca/content/dam/cs/images/Research/research-software-engineering2.jpg" />
