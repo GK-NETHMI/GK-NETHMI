@@ -3,8 +3,7 @@
 <h3 align="center">--Enthusiastic Full-stack Developer--</h3>
 <p align="center">As a committed full-stack developer, I eagerly engage with the fast-paced evolution of technology, drawing on a comprehensive skill set across front-end and back-end development..</p>
 <img align="right" alt="Coding" width="500" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
-
-<br>
+<br><br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gk-nethmi&label=Profile%20views&color=0e75b6&style=flat" alt="gk-nethmi" /> </p>
 
