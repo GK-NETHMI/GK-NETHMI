@@ -1,7 +1,7 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 <h1 align="center"><img src="https://github.com/iamsahan/cool-gifs-github/blob/main/images/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width = 30px/>    Hi 👋, I'm Kaveesha Nethmi    <img src="https://github.com/iamsahan/cool-gifs-github/blob/main/images/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width = 30px/></h1>
 <h3 align="center">--Enthusiastic Full-stack Developer--</h3>
-<p align="center">I am passionate about creating innovative and user-friendly mobile and web applications.</p>
+<p align="center">As a committed full-stack developer, I eagerly engage with the fast-paced evolution of technology, drawing on a comprehensive skill set across front-end and back-end development..</p>
 <img align="right" alt="Coding" width="500" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gk-nethmi&label=Profile%20views&color=0e75b6&style=flat" alt="gk-nethmi" /> </p>
